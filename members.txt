@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Thanyarat
-=======
 earn
 chadjira
->>>>>>> fba76cfdcdfb43fdca39d428cfbd0d67d5417ec7
+
